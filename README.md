@@ -6,12 +6,10 @@ This project analyzes the sales performance of Vrinda Store for the year 2022 us
 ## Dashboard
 
 ![Dashboard](vrinda%201.png)
+
 ## 🎥 Dashboard Demo Video
 
-Watch the dashboard demo here:
-
- Excel 2026-06-27 15-28-45.mp4
-
+[▶️ Watch Dashboard Demo Video](./Excel%202026-06-27%2015-28-45.mp4
 
 ## Tools Used
 
