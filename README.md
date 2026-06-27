@@ -3,6 +3,9 @@
 ## Project Overview
 
 This project analyzes the sales performance of Vrinda Store for the year 2022 using Microsoft Excel.
+## Dashboard
+
+![Dashboard](vrinda%201.png)
 
 ## Tools Used
 
